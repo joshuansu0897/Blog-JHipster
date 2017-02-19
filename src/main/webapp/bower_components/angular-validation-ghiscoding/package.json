@@ -1,0 +1,38 @@
+{
+  "name": "angular-validation-ghiscoding",
+  "version": "1.5.16",
+  "author": "Ghislain B.",
+  "description": "Angular-Validation Directive and Service (ghiscoding)",
+  "main": "dist/angular-validation.min",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^1.2.1",
+    "fs": "0.0.0",
+    "gulp": "^3.9.0",
+    "gulp-angular-protractor": "^0.2.0",
+    "gulp-bump": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-if": "^1.2.5",
+    "gulp-order": "^1.1.1",
+    "gulp-replace-task": "^0.1.0",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^1.5.3",
+    "protractor": "^4.0.11",
+    "semver": "^4.3.6",
+    "yargs": "^3.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular-validation",
+    "angular-validation-ghiscoding"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/ghiscoding/angular-validation",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ghiscoding/angular-validation"
+  }
+}
